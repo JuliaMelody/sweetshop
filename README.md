@@ -12,3 +12,5 @@ Made with
 • Stripe
 
 • HTML & CSS Editor
+
+***you need to unzip node_modules and views
